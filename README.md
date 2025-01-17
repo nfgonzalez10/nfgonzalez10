@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
 <h3 align="center">Full-stack engineer</h3>
 
-- 🔭 I’m currently working on [Smarthop](https://www.smarthop.com/)
-
 - 🌱 I’m currently learning **NextJs, WebAssembly, Go, Rust**
 
 - 👯 I’m looking to collaborate on **javascript p**
